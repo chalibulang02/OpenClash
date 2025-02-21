@@ -2,6 +2,7 @@
 hdroute.org
 *.hdroute.org
 *.open.cd
+open.*
 springsunday.*
 *.hdcmct.org
 *.totheglory.im
@@ -15,4 +16,4 @@ greasyfork.org
 *.hassbian.com
 *.openwrt.*
 *.springsunday.*
-open.*
+
