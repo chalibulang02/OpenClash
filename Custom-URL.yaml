@@ -25,6 +25,3 @@ fedex.com
 gebi1.*
 *.windows.*
 *.microsoft.*
-- DOMAIN-KEYWORD, adobe, REJECT
-- DOMAIN-SUFFIX,adobe.com,REJECT
-- DOMAIN-SUFFIX,adobe.io,REJECT
