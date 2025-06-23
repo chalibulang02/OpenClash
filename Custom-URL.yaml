@@ -1,26 +1,28 @@
 ## 国内小众网站
-- DOMAIN-SUFFIX,hdroute.org
-- DOMAIN-SUFFIX,open.cd
-- DOMAIN-SUFFIX,hdcmct.org
-- DOMAIN-SUFFIX,totheglory.im
-- DOMAIN-SUFFIX,joyhd.net
-- DOMAIN-SUFFIX,ubits.club
-- DOMAIN-SUFFIX,m-team.cc
-- DOMAIN-SUFFIX,hdarea.club
-- DOMAIN-SUFFIX,gebi1.com
-- DOMAIN-SUFFIX,cnwangjie.com
-- DOMAIN-SUFFIX,greasyfork.org
-- DOMAIN-SUFFIX,hassbian.com
-- DOMAIN-SUFFIX,fedex.com
-- DOMAIN-SUFFIX,gebi1.com
-- DOMAIN-SUFFIX,apple.com
-- DOMAIN-SUFFIX,windows.com
-- DOMAIN-SUFFIX,microsoft.com
-- DOMAIN-SUFFIX,19770826.xyz
-
-- DOMAIN-KEYWORD,haoran818
-- DOMAIN-KEYWORD,springsunday
-- DOMAIN-KEYWORD,openwrt
-- DOMAIN-KEYWORD,hscode
-- DOMAIN-KEYWORD,e-to-china
-- DOMAIN-KEYWORD,msedge
+*.19770826.xyz
+*.haoran818.*
+hdroute.org
+*.hdroute.org
+*.open.cd
+open.*
+springsunday.*
+*.hdcmct.org
+*.totheglory.im
+*.joyhd.net
+*.ubits.club
+*.m-team.cc
+*.hdarea.club
+*.gebi1.com
+*.cnwangjie.com
+greasyfork.org
+*.hassbian.com
+*.openwrt.*
+*.springsunday.*
+fedex.com
+*.fedex.com
+*.hscode.*
+*.e-to-china.*
+*.microsoft.*
+*.msedge.*
+gebi1.*
+*.windows.*
